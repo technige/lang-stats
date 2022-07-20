@@ -1,0 +1,36 @@
+{"year": 2022, "lang": "c", "so_usage": 19.27, "so_usage_raw": 13692, "so_loved": 39.68}
+{"year": 2022, "lang": "cplusplus", "so_usage": 22.55, "so_usage_raw": 16024, "so_loved": 48.39}
+{"year": 2022, "lang": "csharp", "so_usage": 27.98, "so_usage_raw": 19883, "so_loved": 63.39}
+{"year": 2022, "lang": "dart", "so_usage": 6.54, "so_usage_raw": 4648, "so_loved": 62.16}
+{"year": 2022, "lang": "elixir", "so_usage": 2.15, "so_usage_raw": 1528, "so_loved": 75.46}
+{"year": 2022, "lang": "go", "so_usage": 11.15, "so_usage_raw": 7922, "so_loved": 64.58}
+{"year": 2022, "lang": "java", "so_usage": 33.27, "so_usage_raw": 23644, "so_loved": 45.75}
+{"year": 2022, "lang": "javascript", "so_usage": 65.36, "so_usage_raw": 46443, "so_loved": 61.46}
+{"year": 2022, "lang": "kotlin", "so_usage": 9.16, "so_usage_raw": 6507, "so_loved": 63.29}
+{"year": 2022, "lang": "perl", "so_usage": 2.31, "so_usage_raw": 1644, "so_loved": 34.98}
+{"year": 2022, "lang": "php", "so_usage": 20.87, "so_usage_raw": 14827, "so_loved": 41.61}
+{"year": 2022, "lang": "python", "so_usage": 48.07, "so_usage_raw": 34155, "so_loved": 67.34}
+{"year": 2022, "lang": "r", "so_usage": 4.66, "so_usage_raw": 3308, "so_loved": 41.6}
+{"year": 2022, "lang": "ruby", "so_usage": 6.05, "so_usage_raw": 4299, "so_loved": 49.99}
+{"year": 2022, "lang": "rust", "so_usage": 9.32, "so_usage_raw": 6625, "so_loved": 86.73}
+{"year": 2022, "lang": "scala", "so_usage": 2.59, "so_usage_raw": 1837, "so_loved": 50.3}
+{"year": 2022, "lang": "swift", "so_usage": 4.91, "so_usage_raw": 3489, "so_loved": 62.88}
+{"year": 2022, "lang": "typescript", "so_usage": 34.83, "so_usage_raw": 24752, "so_loved": 73.46}
+{"year": 2021, "lang": "c", "so_usage": 21.01, "so_usage_raw": 17329, "so_loved": 39.56, "jb_usage": 19}
+{"year": 2021, "lang": "cplusplus", "so_usage": 24.31, "so_usage_raw": 20057, "so_loved": 49.24, "jb_usage": 23}
+{"year": 2021, "lang": "csharp", "so_usage": 27.86, "so_usage_raw": 22984, "so_loved": 61.96, "jb_usage": 21}
+{"year": 2021, "lang": "dart", "so_usage": 6.02, "so_usage_raw": 4965, "so_loved": 63.77, "jb_usage": 8}
+{"year": 2021, "lang": "elixir", "so_usage": 1.74, "so_usage_raw": 1438, "so_loved": 72.11, "jb_usage": null}
+{"year": 2021, "lang": "go", "so_usage": 9.55, "so_usage_raw": 7879, "so_loved": 62.74, "jb_usage": 17}
+{"year": 2021, "lang": "java", "so_usage": 35.35, "so_usage_raw": 29162, "so_loved": 47.15, "jb_usage": 49}
+{"year": 2021, "lang": "javascript", "so_usage": 64.96, "so_usage_raw": 53587, "so_loved": 61.51, "jb_usage": 69}
+{"year": 2021, "lang": "kotlin", "so_usage": 8.32, "so_usage_raw": 6866, "so_loved": 61.55, "jb_usage": 14}
+{"year": 2021, "lang": "perl", "so_usage": 2.46, "so_usage_raw": 2028, "so_loved": 36.0, "jb_usage": 2}
+{"year": 2021, "lang": "php", "so_usage": 21.98, "so_usage_raw": 18130, "so_loved": 40.24, "jb_usage": 32}
+{"year": 2021, "lang": "python", "so_usage": 48.24, "so_usage_raw": 39792, "so_loved": 67.83, "jb_usage": 52}
+{"year": 2021, "lang": "r", "so_usage": 5.07, "so_usage_raw": 4185, "so_loved": 44.23, "jb_usage": 4}
+{"year": 2021, "lang": "ruby", "so_usage": 6.75, "so_usage_raw": 5569, "so_loved": 53.24, "jb_usage": 6}
+{"year": 2021, "lang": "rust", "so_usage": 7.03, "so_usage_raw": 5799, "so_loved": 86.98, "jb_usage": 6}
+{"year": 2021, "lang": "scala", "so_usage": 2.6, "so_usage_raw": 2148, "so_loved": 52.28, "jb_usage": 3}
+{"year": 2021, "lang": "swift", "so_usage": 5.1, "so_usage_raw": 4204, "so_loved": 63.56, "jb_usage": 7}
+{"year": 2021, "lang": "typescript", "so_usage": 30.19, "so_usage_raw": 24909, "so_loved": 72.73, "jb_usage": 29}
